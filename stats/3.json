@@ -1,0 +1,14 @@
+{
+    "kills": 0,
+    "deaths": 0,
+    "kd": 0.0,
+    "assists": 0,
+    "headshots": 0,
+    "headshotRate": 0.0,
+    "accuracy": 0.0,
+    "matchesPlayed": 0,
+    "timePlayedHours": 0,
+    "timePlayedMinutes": 0,
+    "currentMMR": 250,
+    "currentRank": "Bronze1"
+}
