@@ -1,6 +1,6 @@
 PlayerID=("1")
-BanStatus=("false")
-Banpricol=("")
+BanStatus=("true")
+Banpricol=("Test")
 IP=("7cav+JGhokwBRxElvgh2MQ==")
 RegisterDate=("2025-10-31 14:15:29")
 PlayerName=("Игрок 7900")
