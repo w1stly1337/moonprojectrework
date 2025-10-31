@@ -1,6 +1,6 @@
 PlayerID=("1")
-BanStatus=("false")
-BanReason=("")
+BanStatus=("true")
+BanReason=("Test")
 IP=("7cav+JGhokwBRxElvgh2MQ==")
 RegisterDate=("2025-10-31 14:20:25")
 PlayerName=("Игрок 4285")
