@@ -1,2 +1,1 @@
-test
-promo - 999999
+testing - 99999
