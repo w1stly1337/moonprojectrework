@@ -6,9 +6,9 @@
     "headshots": 0,
     "headshotRate": 0.0,
     "accuracy": 0.0,
-    "matchesPlayed": 4,
+    "matchesPlayed": 0,
     "timePlayedHours": 0,
-    "timePlayedMinutes": 6,
-    "currentMMR": 276,
+    "timePlayedMinutes": 0,
+    "currentMMR": 250,
     "currentRank": "Bronze1"
 }
