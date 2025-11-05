@@ -1,2 +1,2 @@
 InventorySkins=("M9Bayonet_GragonGlass")
-Gold=("32443")
+Gold=("0")
